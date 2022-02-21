@@ -12,7 +12,7 @@ export default {
   UPLOAD_PAGE: {
     PAGE_TITLE: '채보를 업로드한다.',
     SELECT_FILE: '파일을 선택',
-    ARTWORK: '보면 자켓 파일',
+    ARTWORK: ' 자켓 파일',
     MUSIC_FILE: '음원 파일',
     SCORE_FILE: '채보 파일',
     UPLOAD: '업로드',
