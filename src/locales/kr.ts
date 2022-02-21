@@ -81,7 +81,7 @@ export default {
       TOS: '이용약관(일본어)',
       POLICY: {
         PRIVACY: '개인정보취급방침(일본어)',
-        DIRECTOR: '서비스 ',
+        DIRECTOR: '서비스 운영자',
       },
     },
   },
