@@ -10,7 +10,7 @@ export default {
     NO_MORE_SCORE: '모든 채보를 불러왔습니다.',
   },
   UPLOAD_PAGE: {
-    PAGE_TITLE: '채보를 업로드한다.',
+    PAGE_TITLE: '채보 업로드.',
     SELECT_FILE: '파일을 선택',
     ARTWORK: ' 자켓 파일',
     MUSIC_FILE: '음원 파일',
